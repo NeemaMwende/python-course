@@ -20,13 +20,51 @@
 # import sys
 # print(sys.version)
 
-print("Cheers mate!")
-x =str(5)
-y =int(5)
-z= float(5)
-print(x, y, z)
-print(type(x), type(y), type(z))
+# print("Cheers mate!")
+# x =str(5)
+# y =int(5)
+# z= float(5)
+# print(x, y, z)
+# print(type(x), type(y), type(z))
 
-a = 5
-A = "Angel"
-print(a, A)
+# a = 5
+# A = "Angel"
+# print(a, A)
+
+# x, y, z = 5, 10, 15
+# a, b, c, = "me", "you", "us"
+# print(x, y, z, a, b, c)
+
+# x = y = z = "Orange"
+# print(x)
+# print(y)
+# print(z)
+
+# fruits = ["apple", "banana", "cherry"]
+# x, y, z = fruits
+# print(x)
+# print(y)
+# print(z)
+
+# x = "Python"
+# y = "is"
+# z = "awesome"
+# print(x, y, z)
+
+# x = "Python "
+# y = "is "
+# z = "awesome"
+# print(x + y + z)
+
+# x = "awesome"
+
+# def myfunc():
+#   print("Python is " + x)
+
+# myfunc()
+
+# y = "Hey"
+
+# def myfunc():
+#     print("Charles is" + y)
+# myfunc()
