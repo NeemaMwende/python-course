@@ -21,3 +21,12 @@
 # print(sys.version)
 
 print("Cheers mate!")
+x =str(5)
+y =int(5)
+z= float(5)
+print(x, y, z)
+print(type(x), type(y), type(z))
+
+a = 5
+A = "Angel"
+print(a, A)
