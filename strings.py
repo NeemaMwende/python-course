@@ -40,5 +40,10 @@
 # b = "Hello, World!"
 # print(b[2:])
 
-b = "Hello, World!"
-print(b[-5:-2])
+# b = "Hello, World!"
+# print(b[-5:-2])
+
+#The strip() method removes any whitespace from the beginning or the end:
+a = " Hello, World! "
+print(a.strip()) # returns "Hello, World!"
+print(a) # returns "Hello, World!"
