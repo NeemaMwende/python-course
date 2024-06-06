@@ -8,5 +8,27 @@
 # ut labore et dolore magna aliqua."""
 # print(a)
 
-a = "Hello, World!"
-print(a[5])
+# a = "Hello, World!"
+# print(a[5])
+
+# for x in "banana":
+#   print(x)
+
+#The len() function returns the length of a string:
+# a = "Hello, World!"
+# print(len(a))
+
+#To check if a certain phrase or character is present in a string, we can use the keyword in.
+# txt = "The best things in life are free!"
+# print("man" in txt)
+
+txt = "The best things in life are free!"
+if "free" in txt:
+  print("Yes, 'free' is present.")
+
+txt = "The best things in life are free!"
+print("expensive" not in txt)
+
+if "expensive" not in txt:
+  print("Yes, 'expensive' is NOT present.")
+  
