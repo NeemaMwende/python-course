@@ -72,9 +72,12 @@
 # print(txt)
 
 #placeholders with modifiers
-price = 59
-txt = f"The price is {price:.5f} dollars"
-print(txt)
+# price = 59
+# txt = f"The price is {price:.5f} dollars"
+# print(txt)
 
-txt = f"The price is {20 * 30} dollars"
+# txt = f"The price is {20 * 30} dollars"
+# print(txt)
+
+txt = "We are the so-called \"Vikings\" from the north."
 print(txt)
