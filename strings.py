@@ -44,6 +44,34 @@
 # print(b[-5:-2])
 
 #The strip() method removes any whitespace from the beginning or the end:
-a = " Hello, World! "
-print(a.strip()) # returns "Hello, World!"
-print(a) # returns "Hello, World!"
+# a = " Hello, World! "
+# print(a.strip()) # returns "Hello, World!"
+# print(a) # returns "Hello, World!"
+
+# a = "Hello, World!"
+# print(a.replace("H", "J"))
+
+# #The split() method splits the string into substrings if it finds instances of the separator:
+
+# a = "Hello, World!"
+# print(a.split(",")) # returns ['Hello', ' World!']
+
+# a = "Hello"
+# b = "World"
+# c = a + " " + b
+# print(c)
+
+# a = "Hello"
+# b = "World"
+# c = a + b
+# print(c)
+
+#f-strings
+# age = 36
+# txt = f"My name is John, I am {age} "
+# print(txt)
+
+#placeholders with modifiers
+price = 59
+txt = f"The price is {price:.2f} dollars"
+print(txt)
