@@ -22,13 +22,20 @@
 # txt = "The best things in life are free!"
 # print("man" in txt)
 
-txt = "The best things in life are free!"
-if "free" in txt:
-  print("Yes, 'free' is present.")
+# txt = "The best things in life are free!"
+# if "free" in txt:
+#   print("Yes, 'free' is present.")
 
-txt = "The best things in life are free!"
-print("expensive" not in txt)
+# txt = "The best things in life are free!"
+# print("expensive" not in txt)
 
-if "expensive" not in txt:
-  print("Yes, 'expensive' is NOT present.")
-  
+# if "expensive" not in txt:
+#   print("Yes, 'expensive' is NOT present.")
+
+#Slicing
+# Get the characters from position 2 to position 5 (not included):
+b = "Hello, World!"
+print(b[2:12])
+
+b = "Hello, World!"
+print(b[2:])
