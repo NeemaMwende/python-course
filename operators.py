@@ -58,5 +58,5 @@ thislist.insert(2, "watermelon")
 print(thislist)
 
 thislist = ["apple", "banana", "cherry"]
-thislist.append("orange")
+thislist.append("orange", "kiwi")
 print(thislist)
